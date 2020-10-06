@@ -20,12 +20,33 @@ A good README file always includes:
 
 Additional Elements:
 -Table of Contents
+    -See Below
 -Illustrations
+    -A technical document doesn't need to be pretty, but legible and understandable
+    -Create a file in the repository and add an image there. Use a file path to display it using
 -Scope of Functionalities
+    -Some projects don't need a scope of functionalities, depending on how simple they are
+    -This section is a brag about what the project can do
 -Examples of Use
+    -
 -Project Status
+    -Whether or not the project is still being developed
+    -Any planned changes if it's our library
+    -Emphasize anything done with development
 -Sources
+    -Based on a tutorial? Inspired with a given task? Based on someone elses code?
+    -
 -Other Information
+    -Information on author, contact, website and social media links, type of license under which the code is made available or info on how to contribute to a project
+
+Examples:
+-https://github.com/igorantun/node-chat
+-https://github.com/iharsh234/WebApp
+-https://github.com/amitmerchant1990/pomolectron
+-https://github.com/gitpoint/git-point
+
+
+Information from https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
 
 
 ## Table of Contents
