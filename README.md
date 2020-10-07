@@ -50,9 +50,9 @@ Information from https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-
 
 
 ## Table of Contents
-*[General info](#general-info)
-*[Technologies](#technologies)
-*[Setup](#setup)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## General Info
 This project is a personal website
